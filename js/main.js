@@ -6,8 +6,8 @@ function initMap() {
   });
 
 	var ctaLayer = new google.maps.KmlLayer({
-    // url: 'http://localhost/typhoon/data/2015/201504.kml',
-		url: 'http://googlemaps.github.io/js-v2-samples/ggeoxml/cta.kml',
+    url: 'https://drive.google.com/open?id=0B5Sc8FRibfkOZFVGTUJUVDY1LVk',
+		// url: 'http://googlemaps.github.io/js-v2-samples/ggeoxml/cta.kml',
     map: map
   });
 
