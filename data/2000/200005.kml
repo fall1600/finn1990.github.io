@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>台風 200005 号 (TEMBIN)</name>
+      <Folder>
+        <name>台風 200005 号 (TEMBIN) 観測情報</name>
+        <Placemark>
+          <name>[200005] 07/17 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071700.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 19.8 度, 東経 145 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=17&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月17日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>145,19.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/17 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071706.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.8 度, 東経 144.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=17&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月17日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>144.5,20.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/17 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071712.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.6 度, 東経 144 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=17&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月17日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>144,21.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/18 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071718.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.2 度, 東経 143.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=18&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月18日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>143.4,22.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/18 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071800.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.7 度, 東経 142.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=18&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月18日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.9,22.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/18 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071806.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.5 度, 東経 142.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=18&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月18日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.2,23.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/18 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071812.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.2 度, 東経 141.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=18&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月18日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>141.9,24.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/19 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071818.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.1 度, 東経 141.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=19&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月19日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>141.7,25.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/19 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071900.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 26.7 度, 東経 142.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=19&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月19日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.2,26.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/19 12JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071903.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 27.3 度, 東経 142.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=19&amp;hour=12&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月19日 12時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.3,27.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/19 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071906.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 27.7 度, 東経 142.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=19&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月19日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.4,27.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/19 18JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071909.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 28.1 度, 東経 142.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=19&amp;hour=18&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月19日 18時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.3,28.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/19 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071912.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 28.4 度, 東経 142.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=19&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月19日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.3,28.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/20 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500071918.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 29.4 度, 東経 142.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=20&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月20日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.1,29.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/20 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072000.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 30 度, 東経 141.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=20&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月20日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>141.9,30,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/20 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072006.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 30.7 度, 東経 141.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=20&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月20日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>141.7,30.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/20 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072012.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 31.4 度, 東経 141.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=20&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月20日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>141.7,31.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/21 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072018.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 31.9 度, 東経 141.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=21&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月21日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>141.9,31.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/21 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072100.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 32.4 度, 東経 142 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=21&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月21日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142,32.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/21 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072106.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 33.1 度, 東経 142.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=21&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月21日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.1,33.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/21 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072112.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 34.1 度, 東経 142.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=21&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月21日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.3,34.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/22 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072118.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 34.9 度, 東経 142.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=22&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月22日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>142.5,34.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/22 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072200.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 35.9 度, 東経 143 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=22&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月22日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>143,35.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/22 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072206.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 37.2 度, 東経 144.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=22&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月22日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>144.2,37.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/22 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072212.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.7 度, 東経 146 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=22&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月22日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>146,38.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/23 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072218.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 40.2 度, 東経 147.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=23&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月23日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>147.6,40.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/23 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072300.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 42 度, 東経 148.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=23&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月23日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.4,42,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200005] 07/23 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200005/1/128x128/GMS500072306.200005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 43 度, 東経 151.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=7&amp;day=23&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年07月23日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200005.html.ja"&gt;デジタル台風： 台風 200005 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>151.9,43,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>台風 200005 号 (TEMBIN) 経路情報</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145,19.8,500 144.5,20.8,500 144,21.6,500 143.4,22.2,500 142.9,22.7,500 142.2,23.5,500 141.9,24.2,500 141.7,25.1,500 142.2,26.7,500 142.3,27.3,500 142.4,27.7,500 142.3,28.1,500 142.3,28.4,500 142.1,29.4,500 141.9,30,500 141.7,30.7,500 141.7,31.4,500 141.9,31.9,500 142,32.4,500 142.1,33.1,500 142.3,34.1,500 142.5,34.9,500 143,35.9,500 144.2,37.2,500 146,38.7,500 147.6,40.2,500 148.4,42,500 151.9,43,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

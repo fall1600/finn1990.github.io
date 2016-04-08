@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>台風 201517 号 (KILO)</name>
+      <Folder>
+        <name>台風 201517 号 (KILO) 観測情報</name>
+        <Placemark>
+          <name>[201517] 09/02 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090118.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;ハリケーン／トロピカルサイクロン&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.7 度, 西経 -0.0999999999999943 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;945 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;90 kt (45 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=2&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月02日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#grayIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>180.1,23.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/02 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090200.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24 度, 東経 179.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=2&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月02日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>179.8,24,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/02 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090206.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.4 度, 東経 179.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=2&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月02日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>179.4,24.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/02 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090212.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.6 度, 東経 179.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=2&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月02日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>179.1,24.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/03 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090218.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.6 度, 東経 178.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=3&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月03日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>178.5,24.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/03 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090300.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.7 度, 東経 178.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=3&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月03日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>178.2,24.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/03 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090306.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.6 度, 東経 178.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=3&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月03日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>178.1,24.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/03 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090312.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.4 度, 東経 177.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=3&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月03日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>177.7,24.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/04 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090318.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.1 度, 東経 177.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=4&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月04日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>177.5,24.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/04 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090400.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.8 度, 東経 177.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=4&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月04日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>177.1,23.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/04 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090406.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.6 度, 東経 176.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=4&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月04日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>176.6,23.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/04 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090412.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.5 度, 東経 175.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=4&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月04日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>175.8,23.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/05 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090418.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.5 度, 東経 174.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=5&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月05日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>174.9,23.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/05 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090500.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.5 度, 東経 174 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=5&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月05日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>174,23.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/05 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090506.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.6 度, 東経 173 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=5&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月05日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>173,23.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/05 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090512.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.5 度, 東経 172.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=5&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月05日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>172.1,23.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/06 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090518.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.7 度, 東経 170.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=6&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月06日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>170.7,23.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/06 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090600.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.9 度, 東経 169.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=6&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月06日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>169.7,23.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/06 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090606.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24 度, 東経 168.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=6&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月06日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>168.9,24,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/06 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090612.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.3 度, 東経 167.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=6&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月06日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>167.6,24.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/07 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090618.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.4 度, 東経 166.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=7&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月07日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>166.5,24.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/07 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090700.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.7 度, 東経 165.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=7&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月07日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>165.6,24.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/07 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090706.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25 度, 東経 164.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=7&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月07日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>164.2,25,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/07 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090712.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.2 度, 東経 163.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=7&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月07日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>163.3,25.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/08 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090718.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.6 度, 東経 162.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=8&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月08日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>162.1,25.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/08 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090800.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 26.1 度, 東経 160.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=8&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月08日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>160.3,26.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/08 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090806.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 26.7 度, 東経 158.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=8&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月08日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>158.7,26.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/08 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090812.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 27.2 度, 東経 157.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=8&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月08日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>157.3,27.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/09 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090818.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 28.1 度, 東経 156 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=9&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月09日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>156,28.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/09 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090900.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 29.1 度, 東経 154.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=9&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月09日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>154.7,29.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/09 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090906.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 29.7 度, 東経 153.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=9&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月09日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>153.2,29.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/09 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090912.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 30.7 度, 東経 152.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=9&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月09日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>152.5,30.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/10 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815090918.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 31.6 度, 東経 151.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=10&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月10日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>151.2,31.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/10 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091000.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 32.6 度, 東経 150 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=10&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月10日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>150,32.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/10 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091006.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 34 度, 東経 149.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=10&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月10日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>149.6,34,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/10 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091012.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 35.3 度, 東経 149 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=10&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月10日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>149,35.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/11 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091018.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 36.9 度, 東経 148.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=11&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月11日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.6,36.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/11 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091100.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.7 度, 東経 147.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=11&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月11日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>147.4,38.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/11 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091106.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 40.6 度, 東経 147.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=11&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月11日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>147.2,40.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/11 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091112.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 43 度, 東経 148 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=11&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月11日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148,43,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/12 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091118.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 45.8 度, 東経 148.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;984 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=12&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月12日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.6,45.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/12 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091200.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 48.8 度, 東経 149.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;988 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=12&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月12日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>149.8,48.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/12 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091206.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 53.2 度, 東経 151.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;988 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=12&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月12日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>151.7,53.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/12 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091212.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 55.4 度, 東経 153.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=12&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月12日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>153.7,55.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/13 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091218.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 58.3 度, 東経 156 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=13&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月13日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>156,58.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201517] 09/13 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201517/1/128x128/HMW815091300.201517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 60.5 度, 東経 159.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2015&amp;month=9&amp;day=13&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2015年09月13日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201517.html.ja"&gt;デジタル台風： 台風 201517 号 (KILO)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>159.4,60.5,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>台風 201517 号 (KILO) 経路情報</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>180.1,23.7,500 179.8,24,500 179.4,24.4,500 179.1,24.6,500 178.5,24.6,500 178.2,24.7,500 178.1,24.6,500 177.7,24.4,500 177.5,24.1,500 177.1,23.8,500 176.6,23.6,500 175.8,23.5,500 174.9,23.5,500 174,23.5,500 173,23.6,500 172.1,23.5,500 170.7,23.7,500 169.7,23.9,500 168.9,24,500 167.6,24.3,500 166.5,24.4,500 165.6,24.7,500 164.2,25,500 163.3,25.2,500 162.1,25.6,500 160.3,26.1,500 158.7,26.7,500 157.3,27.2,500 156,28.1,500 154.7,29.1,500 153.2,29.7,500 152.5,30.7,500 151.2,31.6,500 150,32.6,500 149.6,34,500 149,35.3,500 148.6,36.9,500 147.4,38.7,500 147.2,40.6,500 148,43,500 148.6,45.8,500 149.8,48.8,500 151.7,53.2,500 153.7,55.4,500 156,58.3,500 159.4,60.5,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

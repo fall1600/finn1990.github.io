@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>台風 201214 号 (TEMBIN)</name>
+      <Folder>
+        <name>台風 201214 号 (TEMBIN) 観測情報</name>
+        <Placemark>
+          <name>[201214] 08/17 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081706.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.4 度, 東経 125.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=17&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月17日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.9,21.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/17 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081712.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.8 度, 東経 125.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=17&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月17日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.7,20.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/18 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081718.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 19.9 度, 東経 125.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=18&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月18日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.9,19.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/18 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081800.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 19 度, 東経 126 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=18&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月18日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126,19,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/18 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081806.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18.7 度, 東経 125.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=18&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月18日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.8,18.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/18 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081812.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18.3 度, 東経 125.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=18&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月18日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.4,18.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/19 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081818.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 17.8 度, 東経 125 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=19&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月19日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125,17.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/19 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081900.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 17.6 度, 東経 124.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=19&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月19日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.8,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/19 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081906.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 17.4 度, 東経 124.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=19&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月19日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.8,17.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/19 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081912.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 17.6 度, 東経 124.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=19&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月19日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.7,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/20 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212081918.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 17.7 度, 東経 124.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=20&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月20日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.6,17.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/20 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082000.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18 度, 東経 124.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=20&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月20日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.8,18,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/20 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082006.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18.4 度, 東経 124.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=20&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月20日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.9,18.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/20 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082012.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18.8 度, 東経 125.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=20&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月20日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.2,18.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/21 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082018.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 19.5 度, 東経 125.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=21&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月21日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.3,19.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/21 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082100.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.2 度, 東経 125.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=21&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月21日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.4,20.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/21 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082106.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.1 度, 東経 125.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=21&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月21日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.4,21.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/21 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082112.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.7 度, 東経 125.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=21&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月21日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.2,21.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/22 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082118.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.1 度, 東経 125 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=22&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月22日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125,22.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/22 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082200.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.4 度, 東経 124.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=22&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月22日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.5,22.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/22 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082206.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.4 度, 東経 124.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=22&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月22日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.3,22.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/22 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082212.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.5 度, 東経 124.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=22&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月22日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.2,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/23 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082218.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.5 度, 東経 123.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=23&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月23日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.9,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/23 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082300.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.5 度, 東経 123.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=23&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月23日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.6,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/23 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082306.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.6 度, 東経 123.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=23&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月23日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.1,22.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/23 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082312.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.7 度, 東経 122.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=23&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月23日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.5,22.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/24 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082318.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.4 度, 東経 121.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;955 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=24&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月24日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.3,22.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/24 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082400.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.1 度, 東経 120.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=24&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月24日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.5,22.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/24 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082406.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.3 度, 東経 119.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=24&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月24日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.7,22.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/24 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082412.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.4 度, 東経 119.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=24&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月24日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.3,22.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/25 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082418.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.5 度, 東経 118.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=25&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月25日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.7,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/25 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082500.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.5 度, 東経 118.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=25&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月25日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.4,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/25 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082506.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.3 度, 東経 117.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=25&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月25日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.8,22.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/25 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082512.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.9 度, 東経 117.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=25&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月25日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.1,21.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/26 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082518.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.4 度, 東経 116.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=26&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月26日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.7,21.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/26 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082600.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.1 度, 東経 116.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=26&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月26日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.7,21.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/26 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082606.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.8 度, 東経 116.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=26&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月26日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.7,20.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/26 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082612.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.5 度, 東経 116.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=26&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月26日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.9,20.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/27 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082618.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.4 度, 東経 117.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=27&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月27日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.4,20.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/27 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082700.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.2 度, 東経 118 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=27&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月27日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118,20.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/27 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082706.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.7 度, 東経 118.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=27&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月27日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.6,20.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/27 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082712.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.4 度, 東経 119.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=27&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月27日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.9,21.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/28 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082718.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.8 度, 東経 120.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=28&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月28日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.9,21.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/28 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082800.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.8 度, 東経 122 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=28&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月28日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122,22.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/28 12JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082803.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.3 度, 東経 122.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=28&amp;hour=12&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月28日 12時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.4,23.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/28 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082806.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.9 度, 東経 122.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=28&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月28日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.8,23.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/28 18JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082809.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.7 度, 東経 123.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=28&amp;hour=18&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月28日 18時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.2,24.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/28 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082812.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.1 度, 東経 123.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=28&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月28日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.6,25.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/29 00JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.6 度, 東経 123.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=29&amp;hour=0&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月29日 00時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.6,25.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/29 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082818.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 26.2 度, 東経 123.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=29&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月29日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.7,26.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/29 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082900.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 27.1 度, 東経 123.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=29&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月29日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.8,27.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/29 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082906.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 28.8 度, 東経 124.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=29&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月29日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.2,28.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/29 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082912.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 30.5 度, 東経 124.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=29&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月29日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.9,30.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/30 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212082918.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 32.3 度, 東経 125 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=30&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月30日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125,32.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/30 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083000.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 33.8 度, 東経 126.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;985 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=30&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月30日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.6,33.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/30 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083006.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 36 度, 東経 128 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=30&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月30日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>128,36,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/30 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083012.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 36.5 度, 東経 129.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=30&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月30日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>129.4,36.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/31 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083018.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.4 度, 東経 131.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=31&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月31日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>131.2,38.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/31 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083100.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.5 度, 東経 131.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=31&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月31日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>131.4,38.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/31 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083106.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.6 度, 東経 131.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=31&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月31日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>131.9,38.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 08/31 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083112.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.6 度, 東経 132.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1010 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=8&amp;day=31&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年08月31日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>132.2,38.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 09/01 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212083118.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 39.2 度, 東経 132.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1010 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=9&amp;day=1&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年09月01日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>132.2,39.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[201214] 09/01 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/201214/1/128x128/MTS212090100.201214.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 39.2 度, 東経 132.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1012 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2012&amp;month=9&amp;day=1&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2012年09月01日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201214.html.ja"&gt;デジタル台風： 台風 201214 号 (TEMBIN)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>132.2,39.2,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>台風 201214 号 (TEMBIN) 経路情報</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>125.9,21.4,500 125.7,20.8,500 125.9,19.9,500 126,19,500 125.8,18.7,500 125.4,18.3,500 125,17.8,500 124.8,17.6,500 124.8,17.4,500 124.7,17.6,500 124.6,17.7,500 124.8,18,500 124.9,18.4,500 125.2,18.8,500 125.3,19.5,500 125.4,20.2,500 125.4,21.1,500 125.2,21.7,500 125,22.1,500 124.5,22.4,500 124.3,22.4,500 124.2,22.5,500 123.9,22.5,500 123.6,22.5,500 123.1,22.6,500 122.5,22.7,500 121.3,22.4,500 120.5,22.1,500 119.7,22.3,500 119.3,22.4,500 118.7,22.5,500 118.4,22.5,500 117.8,22.3,500 117.1,21.9,500 116.7,21.4,500 116.7,21.1,500 116.7,20.8,500 116.9,20.5,500 117.4,20.4,500 118,20.2,500 118.6,20.7,500 119.9,21.4,500 120.9,21.8,500 122,22.8,500 122.4,23.3,500 122.8,23.9,500 123.2,24.7,500 123.6,25.1,500 123.6,25.6,500 123.7,26.2,500 123.8,27.1,500 124.2,28.8,500 124.9,30.5,500 125,32.3,500 126.6,33.8,500 128,36,500 129.4,36.5,500 131.2,38.4,500 131.4,38.5,500 131.9,38.6,500 132.2,38.6,500 132.2,39.2,500 132.2,39.2,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

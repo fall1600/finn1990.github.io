@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>台風 200710 号 (DANAS)</name>
+      <Folder>
+        <name>台風 200710 号 (DANAS) 観測情報</name>
+        <Placemark>
+          <name>[200710] 09/06 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090600.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.6 度, 東経 161.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=6&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月06日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>161.3,23.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/06 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090606.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.4 度, 東経 160.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=6&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月06日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>160.8,24.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/06 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090612.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.1 度, 東経 159.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=6&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月06日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>159.7,25.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/07 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090618.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.4 度, 東経 158.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=7&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月07日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>158.3,25.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/07 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090700.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.7 度, 東経 157.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=7&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月07日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>157.7,25.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/07 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090706.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 26.7 度, 東経 157.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=7&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月07日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>157.1,26.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/07 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090712.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 27.7 度, 東経 156.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=7&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月07日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>156.3,27.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/08 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090718.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 28.4 度, 東経 155.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=8&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月08日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>155.2,28.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/08 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090800.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 29.3 度, 東経 154.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=8&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月08日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>154.1,29.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/08 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090806.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 29.9 度, 東経 152.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=8&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月08日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>152.8,29.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/08 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090812.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 30.3 度, 東経 151.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=8&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月08日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>151.6,30.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/09 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090818.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 31.2 度, 東経 150.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=9&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月09日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>150.6,31.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/09 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090900.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 32 度, 東経 149.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=9&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月09日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>149.6,32,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/09 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090906.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 33.2 度, 東経 148.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=9&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月09日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.7,33.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/09 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090912.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 34.2 度, 東経 148.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=9&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月09日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.4,34.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/10 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107090918.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 35.4 度, 東経 148.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=10&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月10日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.4,35.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/10 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091000.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 36.7 度, 東経 148.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=10&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月10日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>148.7,36.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/10 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091006.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38.2 度, 東経 150.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=10&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月10日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>150.2,38.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/10 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091012.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 39.3 度, 東経 152.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=10&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月10日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>152.3,39.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/11 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091018.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 40.4 度, 東経 154.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=11&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月11日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>154.7,40.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/11 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091100.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 41.3 度, 東経 157.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=11&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月11日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>157.9,41.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/11 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091106.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 41.1 度, 東経 161 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=11&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月11日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>161,41.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/11 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091112.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 40.6 度, 東経 164.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=11&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月11日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>164.4,40.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/12 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091118.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 40 度, 東経 167.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=12&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月12日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>167.6,40,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/12 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091200.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 39.8 度, 東経 170.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=12&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月12日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>170.4,39.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/12 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091206.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 39.6 度, 東経 172.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=12&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月12日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>172.9,39.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/12 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091212.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 40.6 度, 東経 175.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=12&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月12日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>175.2,40.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/13 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091218.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 41.6 度, 東経 177.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=13&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月13日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>177.7,41.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200710] 09/13 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200710/1/128x128/MTS107091300.200710.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 41.9 度, 西経 -2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2007&amp;month=9&amp;day=13&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2007年09月13日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200710.html.ja"&gt;デジタル台風： 台風 200710 号 (DANAS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>182,41.9,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>台風 200710 号 (DANAS) 経路情報</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.3,23.6,500 160.8,24.4,500 159.7,25.1,500 158.3,25.4,500 157.7,25.7,500 157.1,26.7,500 156.3,27.7,500 155.2,28.4,500 154.1,29.3,500 152.8,29.9,500 151.6,30.3,500 150.6,31.2,500 149.6,32,500 148.7,33.2,500 148.4,34.2,500 148.4,35.4,500 148.7,36.7,500 150.2,38.2,500 152.3,39.3,500 154.7,40.4,500 157.9,41.3,500 161,41.1,500 164.4,40.6,500 167.6,40,500 170.4,39.8,500 172.9,39.6,500 175.2,40.6,500 177.7,41.6,500 182,41.9,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

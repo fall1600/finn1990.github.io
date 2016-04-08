@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>台風 200010 号 (BILIS)</name>
+      <Folder>
+        <name>台風 200010 号 (BILIS) 観測情報</name>
+        <Placemark>
+          <name>[200010] 08/18 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500081812.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 11.5 度, 東経 137 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=18&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月18日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>137,11.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/19 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500081818.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 12.5 度, 東経 136.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=19&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月19日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>136.6,12.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/19 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500081900.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 13.4 度, 東経 136 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=19&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月19日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>136,13.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/19 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500081906.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 14.6 度, 東経 135.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=19&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月19日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>135.6,14.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/19 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500081912.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 15.4 度, 東経 134.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=19&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月19日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>134.8,15.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/20 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500081918.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 16.1 度, 東経 133.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;985 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=20&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月20日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>133.5,16.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/20 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082000.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 16.4 度, 東経 132.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=20&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月20日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>132.5,16.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/20 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082006.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (STS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 16.7 度, 東経 131.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=20&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月20日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>131.8,16.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/20 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082012.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 17.5 度, 東経 130.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;960 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=20&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月20日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>130.8,17.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/21 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082018.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18.2 度, 東経 129.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;945 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=21&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月21日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>129.6,18.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/21 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082100.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 18.8 度, 東経 128.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;935 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;90 kt (45 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=21&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月21日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>128.3,18.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/21 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082106.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 19.4 度, 東経 127.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;930 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;90 kt (45 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=21&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月21日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127.1,19.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/21 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082112.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 19.7 度, 東経 126.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;920 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;100 kt (50 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=21&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月21日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.1,19.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/22 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082118.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.3 度, 東経 125.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;920 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;110 kt (55 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=22&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月22日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.1,20.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/22 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082200.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 20.8 度, 東経 124.1 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;920 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;110 kt (55 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=22&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月22日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.1,20.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/22 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082206.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 21.5 度, 東経 123 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;920 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;110 kt (55 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=22&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月22日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123,21.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/22 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082212.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 22.5 度, 東経 122 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;920 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;110 kt (55 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=22&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月22日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/23 00JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082215.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.1 度, 東経 121.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;930 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;100 kt (50 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=23&amp;hour=0&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月23日 00時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.3,23.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/23 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082218.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.6 度, 東経 120 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;90 kt (45 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=23&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月23日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120,23.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/23 06JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082221.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 23.9 度, 東経 119.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;960 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=23&amp;hour=6&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月23日 06時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.4,23.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/23 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082300.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;強い台風 (TY)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 24.2 度, 東経 118.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=23&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月23日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.9,24.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/23 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082306.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;台風 (TS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.2 度, 東経 117.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;985 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=23&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月23日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.9,25.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/23 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082312.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.2 度, 東経 116.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=23&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月23日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.5,25.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/24 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082318.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 25.4 度, 東経 116.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=24&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月24日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.5,25.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/24 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082400.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 26 度, 東経 116.6 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=24&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月24日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.6,26,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/24 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082406.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 27.2 度, 東経 116.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=24&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月24日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.5,27.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/24 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082412.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 28.4 度, 東経 116.5 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=24&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月24日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.5,28.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/25 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082418.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 29.1 度, 東経 116.7 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=25&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月25日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.7,29.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/25 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082500.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 30.2 度, 東経 117 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=25&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月25日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117,30.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/25 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082506.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 31.6 度, 東経 118.3 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=25&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月25日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.3,31.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/25 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082512.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;熱帯低気圧 (TD)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 32 度, 東経 119.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=25&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月25日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.8,32,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/26 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082518.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 33.3 度, 東経 120.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=26&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月26日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.9,33.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/26 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082600.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 33.8 度, 東経 121.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=26&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月26日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.9,33.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/26 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082606.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 34.4 度, 東経 122.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=26&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月26日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.9,34.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/26 21JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082612.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 35.4 度, 東経 123.9 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=26&amp;hour=21&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月26日 21時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.9,35.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/27 03JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082618.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 36.1 度, 東経 124.8 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=27&amp;hour=3&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月27日 03時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.8,36.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/27 09JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082700.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 37.2 度, 東経 125.4 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=27&amp;hour=9&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月27日 09時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.4,37.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[200010] 08/27 15JST</name>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200010/1/128x128/GMS500082706.200010.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;カテゴリ&lt;/th&gt;&lt;td&gt;温帯低気圧&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心位置&lt;/th&gt;&lt;td&gt;（北緯 38 度, 東経 126.2 度）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;中心気圧&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;最大風速&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&amp;year=2000&amp;month=8&amp;day=27&amp;hour=15&amp;basin=wnp&amp;tz=jst"&gt;デジタル台風： 2000年08月27日 15時00分 JST の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200010.html.ja"&gt;デジタル台風： 台風 200010 号 (BILIS)の画像と情報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.2,38,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>台風 200010 号 (BILIS) 経路情報</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>137,11.5,500 136.6,12.5,500 136,13.4,500 135.6,14.6,500 134.8,15.4,500 133.5,16.1,500 132.5,16.4,500 131.8,16.7,500 130.8,17.5,500 129.6,18.2,500 128.3,18.8,500 127.1,19.4,500 126.1,19.7,500 125.1,20.3,500 124.1,20.8,500 123,21.5,500 122,22.5,500 121.3,23.1,500 120,23.6,500 119.4,23.9,500 118.9,24.2,500 117.9,25.2,500 116.5,25.2,500 116.5,25.4,500 116.6,26,500 116.5,27.2,500 116.5,28.4,500 116.7,29.1,500 117,30.2,500 118.3,31.6,500 119.8,32,500 120.9,33.3,500 121.9,33.8,500 122.9,34.4,500 123.9,35.4,500 124.8,36.1,500 125.4,37.2,500 126.2,38,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
