@@ -1,0 +1,833 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.1,
+                    15.9,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/03 21JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070312.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 15.9 度, 東経 119.1 度）</td></tr>\n<tr><th>中心気圧</th><td>1000 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=3&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月03日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.5,
+                    16.4,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/04 03JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070318.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 16.4 度, 東経 119.5 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=4&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月04日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.8,
+                    17,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/04 09JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070400.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 17 度, 東経 119.8 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=4&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月04日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1,
+                    17.8,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/04 15JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070406.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 17.8 度, 東経 120.1 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=4&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月04日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3,
+                    18.6,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/04 21JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070412.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 18.6 度, 東経 120.3 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=4&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月04日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3,
+                    18.9,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/05 03JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070418.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 18.9 度, 東経 120.3 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=5&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月05日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    19,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/05 09JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070500.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19 度, 東経 120.2 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=5&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月05日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1,
+                    19.1,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/05 15JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070506.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.1 度, 東経 120.1 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=5&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月05日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    19.2,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/05 21JST",
+                "styleUrl": "#blueIcon",
+                "styleHash": "50469957",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070512.200004.jpg\" /></td>\n<th>カテゴリ</th><td>熱帯低気圧 (TD)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.2 度, 東経 120 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=5&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月05日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    19.3,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/06 03JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070518.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.3 度, 東経 120 度）</td></tr>\n<tr><th>中心気圧</th><td>992 hPa</td></tr>\n<tr><th>最大風速</th><td>40 kt (20 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=6&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月06日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.8,
+                    19.4,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/06 09JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070600.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.4 度, 東経 119.8 度）</td></tr>\n<tr><th>中心気圧</th><td>985 hPa</td></tr>\n<tr><th>最大風速</th><td>50 kt (25 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=6&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月06日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6,
+                    19.5,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/06 15JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070606.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.5 度, 東経 119.6 度）</td></tr>\n<tr><th>中心気圧</th><td>975 hPa</td></tr>\n<tr><th>最大風速</th><td>60 kt (30 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=6&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月06日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119,
+                    19.6,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/06 21JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070612.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.6 度, 東経 119 度）</td></tr>\n<tr><th>中心気圧</th><td>970 hPa</td></tr>\n<tr><th>最大風速</th><td>65 kt (35 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=6&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月06日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.6,
+                    19.6,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/07 03JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070618.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.6 度, 東経 118.6 度）</td></tr>\n<tr><th>中心気圧</th><td>965 hPa</td></tr>\n<tr><th>最大風速</th><td>70 kt (35 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=7&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月07日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.6,
+                    19.6,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/07 09JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070700.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.6 度, 東経 118.6 度）</td></tr>\n<tr><th>中心気圧</th><td>960 hPa</td></tr>\n<tr><th>最大風速</th><td>75 kt (40 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=7&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月07日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.7,
+                    19.7,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/07 15JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070706.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.7 度, 東経 118.7 度）</td></tr>\n<tr><th>中心気圧</th><td>960 hPa</td></tr>\n<tr><th>最大風速</th><td>75 kt (40 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=7&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月07日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.8,
+                    19.8,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/07 21JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070712.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.8 度, 東経 118.8 度）</td></tr>\n<tr><th>中心気圧</th><td>960 hPa</td></tr>\n<tr><th>最大風速</th><td>75 kt (40 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=7&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月07日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119,
+                    19.9,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/08 03JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070718.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 19.9 度, 東経 119 度）</td></tr>\n<tr><th>中心気圧</th><td>960 hPa</td></tr>\n<tr><th>最大風速</th><td>75 kt (40 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=8&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月08日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.2,
+                    20,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/08 09JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070800.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 20 度, 東経 119.2 度）</td></tr>\n<tr><th>中心気圧</th><td>965 hPa</td></tr>\n<tr><th>最大風速</th><td>70 kt (35 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=8&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月08日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6,
+                    20.3,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/08 15JST",
+                "styleUrl": "#redIcon",
+                "styleHash": "-37528dad",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070806.200004.jpg\" /></td>\n<th>カテゴリ</th><td>強い台風 (TY)</td></tr>\n<tr><th>中心位置</th><td>（北緯 20.3 度, 東経 119.6 度）</td></tr>\n<tr><th>中心気圧</th><td>970 hPa</td></tr>\n<tr><th>最大風速</th><td>65 kt (35 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=8&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月08日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    20.8,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/08 21JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070812.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 20.8 度, 東経 120.2 度）</td></tr>\n<tr><th>中心気圧</th><td>980 hPa</td></tr>\n<tr><th>最大風速</th><td>55 kt (30 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=8&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月08日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8,
+                    21.5,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/09 03JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070818.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 21.5 度, 東経 120.8 度）</td></tr>\n<tr><th>中心気圧</th><td>980 hPa</td></tr>\n<tr><th>最大風速</th><td>55 kt (30 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=9&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月09日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2,
+                    22.7,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/09 09JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070900.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 22.7 度, 東経 121.2 度）</td></tr>\n<tr><th>中心気圧</th><td>985 hPa</td></tr>\n<tr><th>最大風速</th><td>50 kt (25 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=9&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月09日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3,
+                    23.6,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/09 12JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070903.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 23.6 度, 東経 121.3 度）</td></tr>\n<tr><th>中心気圧</th><td>985 hPa</td></tr>\n<tr><th>最大風速</th><td>50 kt (25 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=9&hour=12&basin=wnp&tz=jst\">デジタル台風： 2000年07月09日 12時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4,
+                    24.4,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/09 15JST",
+                "styleUrl": "#yellowIcon",
+                "styleHash": "4da278b",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070906.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (STS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 24.4 度, 東経 121.4 度）</td></tr>\n<tr><th>中心気圧</th><td>985 hPa</td></tr>\n<tr><th>最大風速</th><td>50 kt (25 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=9&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月09日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3,
+                    25.4,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/09 18JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070909.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 25.4 度, 東経 121.3 度）</td></tr>\n<tr><th>中心気圧</th><td>990 hPa</td></tr>\n<tr><th>最大風速</th><td>45 kt (23 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=9&hour=18&basin=wnp&tz=jst\">デジタル台風： 2000年07月09日 18時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2,
+                    26.3,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/09 21JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070912.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 26.3 度, 東経 121.2 度）</td></tr>\n<tr><th>中心気圧</th><td>990 hPa</td></tr>\n<tr><th>最大風速</th><td>45 kt (23 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=9&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月09日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5,
+                    28,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/10 03JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500070918.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 28 度, 東経 121.5 度）</td></tr>\n<tr><th>中心気圧</th><td>990 hPa</td></tr>\n<tr><th>最大風速</th><td>40 kt (20 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=10&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月10日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6,
+                    30.3,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/10 09JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071000.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 30.3 度, 東経 121.6 度）</td></tr>\n<tr><th>中心気圧</th><td>992 hPa</td></tr>\n<tr><th>最大風速</th><td>40 kt (20 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=10&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月10日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.1,
+                    32.2,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/10 15JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071006.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 32.2 度, 東経 122.1 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>35 kt (18 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=10&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月10日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.6,
+                    34.3,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/10 21JST",
+                "styleUrl": "#greenIcon",
+                "styleHash": "574295d3",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071012.200004.jpg\" /></td>\n<th>カテゴリ</th><td>台風 (TS)</td></tr>\n<tr><th>中心位置</th><td>（北緯 34.3 度, 東経 122.6 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>35 kt (18 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=10&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月10日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.9,
+                    36.9,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/11 03JST",
+                "styleUrl": "#magentaIcon",
+                "styleHash": "-1af5722d",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071018.200004.jpg\" /></td>\n<th>カテゴリ</th><td>温帯低気圧</td></tr>\n<tr><th>中心位置</th><td>（北緯 36.9 度, 東経 122.9 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=11&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月11日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.2,
+                    38.4,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/11 09JST",
+                "styleUrl": "#magentaIcon",
+                "styleHash": "-1af5722d",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071100.200004.jpg\" /></td>\n<th>カテゴリ</th><td>温帯低気圧</td></tr>\n<tr><th>中心位置</th><td>（北緯 38.4 度, 東経 123.2 度）</td></tr>\n<tr><th>中心気圧</th><td>994 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=11&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月11日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.9,
+                    40,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/11 15JST",
+                "styleUrl": "#magentaIcon",
+                "styleHash": "-1af5722d",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071106.200004.jpg\" /></td>\n<th>カテゴリ</th><td>温帯低気圧</td></tr>\n<tr><th>中心位置</th><td>（北緯 40 度, 東経 123.9 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=11&hour=15&basin=wnp&tz=jst\">デジタル台風： 2000年07月11日 15時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.4,
+                    41.2,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/11 21JST",
+                "styleUrl": "#magentaIcon",
+                "styleHash": "-1af5722d",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071112.200004.jpg\" /></td>\n<th>カテゴリ</th><td>温帯低気圧</td></tr>\n<tr><th>中心位置</th><td>（北緯 41.2 度, 東経 125.4 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=11&hour=21&basin=wnp&tz=jst\">デジタル台風： 2000年07月11日 21時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.9,
+                    42,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/12 03JST",
+                "styleUrl": "#magentaIcon",
+                "styleHash": "-1af5722d",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071118.200004.jpg\" /></td>\n<th>カテゴリ</th><td>温帯低気圧</td></tr>\n<tr><th>中心位置</th><td>（北緯 42 度, 東経 127.9 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=12&hour=3&basin=wnp&tz=jst\">デジタル台風： 2000年07月12日 03時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.9,
+                    42.8,
+                    500
+                ]
+            },
+            "properties": {
+                "name": "[200004] 07/12 09JST",
+                "styleUrl": "#magentaIcon",
+                "styleHash": "-1af5722d",
+                "description": "<table border=\"1\" cellspacing=\"1\">\n<tr><td rowspan=\"4\"><img src=\"http://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/200004/1/128x128/GMS500071200.200004.jpg\" /></td>\n<th>カテゴリ</th><td>温帯低気圧</td></tr>\n<tr><th>中心位置</th><td>（北緯 42.8 度, 東経 130.9 度）</td></tr>\n<tr><th>中心気圧</th><td>996 hPa</td></tr>\n<tr><th>最大風速</th><td>0 kt (0 m/s)</td></tr>\n</table><ul>\n<li><a href=\"http://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=ja&year=2000&month=7&day=12&hour=9&basin=wnp&tz=jst\">デジタル台風： 2000年07月12日 09時00分 JST の画像と情報</a></li>\n<li><a href=\"http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200004.html.ja\">デジタル台風： 台風 200004 号 (KAI-TAK)の画像と情報</a></li>\n</ul>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        119.1,
+                        15.9,
+                        500
+                    ],
+                    [
+                        119.5,
+                        16.4,
+                        500
+                    ],
+                    [
+                        119.8,
+                        17,
+                        500
+                    ],
+                    [
+                        120.1,
+                        17.8,
+                        500
+                    ],
+                    [
+                        120.3,
+                        18.6,
+                        500
+                    ],
+                    [
+                        120.3,
+                        18.9,
+                        500
+                    ],
+                    [
+                        120.2,
+                        19,
+                        500
+                    ],
+                    [
+                        120.1,
+                        19.1,
+                        500
+                    ],
+                    [
+                        120,
+                        19.2,
+                        500
+                    ],
+                    [
+                        120,
+                        19.3,
+                        500
+                    ],
+                    [
+                        119.8,
+                        19.4,
+                        500
+                    ],
+                    [
+                        119.6,
+                        19.5,
+                        500
+                    ],
+                    [
+                        119,
+                        19.6,
+                        500
+                    ],
+                    [
+                        118.6,
+                        19.6,
+                        500
+                    ],
+                    [
+                        118.6,
+                        19.6,
+                        500
+                    ],
+                    [
+                        118.7,
+                        19.7,
+                        500
+                    ],
+                    [
+                        118.8,
+                        19.8,
+                        500
+                    ],
+                    [
+                        119,
+                        19.9,
+                        500
+                    ],
+                    [
+                        119.2,
+                        20,
+                        500
+                    ],
+                    [
+                        119.6,
+                        20.3,
+                        500
+                    ],
+                    [
+                        120.2,
+                        20.8,
+                        500
+                    ],
+                    [
+                        120.8,
+                        21.5,
+                        500
+                    ],
+                    [
+                        121.2,
+                        22.7,
+                        500
+                    ],
+                    [
+                        121.3,
+                        23.6,
+                        500
+                    ],
+                    [
+                        121.4,
+                        24.4,
+                        500
+                    ],
+                    [
+                        121.3,
+                        25.4,
+                        500
+                    ],
+                    [
+                        121.2,
+                        26.3,
+                        500
+                    ],
+                    [
+                        121.5,
+                        28,
+                        500
+                    ],
+                    [
+                        121.6,
+                        30.3,
+                        500
+                    ],
+                    [
+                        122.1,
+                        32.2,
+                        500
+                    ],
+                    [
+                        122.6,
+                        34.3,
+                        500
+                    ],
+                    [
+                        122.9,
+                        36.9,
+                        500
+                    ],
+                    [
+                        123.2,
+                        38.4,
+                        500
+                    ],
+                    [
+                        123.9,
+                        40,
+                        500
+                    ],
+                    [
+                        125.4,
+                        41.2,
+                        500
+                    ],
+                    [
+                        127.9,
+                        42,
+                        500
+                    ],
+                    [
+                        130.9,
+                        42.8,
+                        500
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "台風 200004 号 (KAI-TAK) 経路情報",
+                "stroke": "779999",
+                "stroke-opacity": 0.8,
+                "stroke-width": 3
+            }
+        }
+    ]
+}
